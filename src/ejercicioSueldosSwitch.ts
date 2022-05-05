@@ -26,7 +26,7 @@ switch (true) {
     break;
   default:
     // en  su defecto
-    console.log("su sueldo sin aumento es de:", sueldo12);
+    console.log("su sueldo sin aumento es de:", sueldo);
     // muestra el mensaje al usuario sin aumento de sueldo
     break;
 }

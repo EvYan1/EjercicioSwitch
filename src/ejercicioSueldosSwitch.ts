@@ -19,7 +19,7 @@ switch (true) {
     break;
   case sueldo <= 25000:
     //en caso de que el sueldo menor a 25000
-    total = sueldo * 0.05 + sueldo;
+    total = sueldo * 1.05;
     // la variable total cambia agregando el 5 porciendo al sueldo ingresado
     console.log("su sueldo actualizado es de ", total);
     // muestra un mensaje al usuario con el sueldo actualizado
